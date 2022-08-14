@@ -1,4 +1,4 @@
-package HelloWorldTest;
+package ChapterOne;
 
 public class CodeMagnet {
     public static void main(String[] args) {
@@ -13,11 +13,9 @@ public class CodeMagnet {
             if (x == 2) {
                 System.out.print("b c");
             }
-                if (x == 1) {
-                    System.out.print("d");
-
-                    x = (x - 1);
-                }
+            if (x == 1) {
+                System.out.print("d");
+                x = x - 1;
             }
 
         }

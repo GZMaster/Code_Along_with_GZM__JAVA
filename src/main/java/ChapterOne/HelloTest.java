@@ -1,4 +1,4 @@
-package HelloWorldTest;
+package ChapterOne;
 
 public class HelloTest {
 
